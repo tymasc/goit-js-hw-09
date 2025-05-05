@@ -23,6 +23,11 @@ a {
   text-decoration: none;
 }
 
+a:active {
+  color: rgb(183, 0, 255);
+  text-decoration: underline;
+}
+
 button {
   cursor: pointer;
 }
